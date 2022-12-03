@@ -1,4 +1,4 @@
-# smali-syntax-highlighting-for-notepad++ like MT Manager
+## smali syntax highlighting for notepad++ like MT Manager
 
  <p align="center">
 <a href="https://github.com/AbhiTheModder"><img title="GitHub" src="https://img.shields.io/badge/Abhi-TheModder-brightgreen?style=for-the-badge&logo=github"></a>
@@ -27,3 +27,5 @@
 ## SCREENSHOTS
 
 ![image](https://user-images.githubusercontent.com/85984486/151747990-1ae13d1a-8da7-4ca0-880d-0b237f47de5e.png)
+
+### Note: < This is edited for light theme only >
