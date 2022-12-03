@@ -28,4 +28,4 @@
 
 ![image](https://user-images.githubusercontent.com/85984486/151747990-1ae13d1a-8da7-4ca0-880d-0b237f47de5e.png)
 
-### Note: < This is edited for light theme only >
+#### Note: This is edited for light theme only
