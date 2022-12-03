@@ -21,7 +21,7 @@
  
  
 <p align="center">
-<a href="https://github.com/AbhiTheModder">Copyright of AbhiTheModder</a>
+Copyright of <a href="https://github.com/AbhiTheModder">AbhiTheModder</a>
 </p>
 
 ## SCREENSHOTS
